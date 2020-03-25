@@ -28,6 +28,3 @@ def main(workMinutes, pauseMinutes, cycles):
             s="REST: "
             countMinutes(l, pauseMinutes, s)
     return(l)
-
-
-# main()
